@@ -12,6 +12,7 @@
   - [Manufacturing and Industrial](#manufacturing-and-industrial)
   - [Automotive and Transportation](#automotive-and-transportation)
   - [Healthcare and Medical](#healthcare-and-medical)
+  - [Beauty and Cosmetics](#beauty-and-cosmetics)
   - [Energy and Environment](#energy-and-environment)
   - [Agriculture](#agriculture)
 - [Trade Shows by Region](#trade-shows-by-region)
@@ -20,6 +21,7 @@
   - [North America](#north-america)
   - [Middle East and Africa](#middle-east-and-africa)
   - [Latin America](#latin-america)
+  - [Oceania](#oceania)
 - [Exhibition Venues](#exhibition-venues)
 - [Tools and Platforms](#tools-and-platforms)
 - [Resources](#resources)
@@ -96,6 +98,15 @@
 - [MEDLAB Middle East](https://www.medlabme.com/) - Laboratory and diagnostics exhibition. Dubai, UAE. Annual, February.
 - [RSNA Annual Meeting](https://www.rsna.org/annual-meeting) - Radiology annual meeting and expo. Chicago, USA. Annual, November/December.
 
+### Beauty and Cosmetics
+
+- [Cosmoprof Worldwide Bologna](https://www.cosmoprof.com/) - Global beauty and cosmetics trade show. Bologna, Italy. Annual, March.
+- [Cosmoprof North America](https://www.cosmoprofnorthamerica.com/) - Beauty industry trade show. Las Vegas, USA. Annual, July.
+- [in-cosmetics Global](https://www.in-cosmetics.com/global/en-gb.html) - Ingredients and formulation exhibition. Europe. Annual, April.
+- [MakeUp in Paris](https://www.makeup-in-paris.com/) - Makeup and skincare innovation event. Paris, France. Annual, June.
+- [Beautyworld Middle East](https://beautyworldme.com/) - Beauty and wellness trade fair. Dubai, UAE. Annual, October.
+- [Cosmobeaute Indonesia](https://www.cosmobeauteindonesia.com/) - Beauty trade show and education program. Jakarta, Indonesia. Annual.
+
 ### Energy and Environment
 
 - [ADIPEC](https://www.adipec.com/) - Abu Dhabi International Petroleum Exhibition and Conference. Abu Dhabi, UAE. Annual, November.
@@ -114,6 +125,12 @@
 - [CIIE](https://www.ciie.org/) - China International Import Expo. Shanghai, China. Annual, November.
 - [Japan IT Week](https://www.japan-it.jp/en-gb.html) - Japan's largest IT trade show. Tokyo, Japan. Biannual.
 - [KOREA PACK](https://www.koreapack.org/) - Korea International Packaging Exhibition. Seoul, South Korea. Biennial.
+- [Manufacturing Indonesia](https://www.manufacturingindonesia.com/) - Manufacturing and machinery exhibition. Jakarta, Indonesia. Annual.
+- [MTA Vietnam](https://www.mtainternational.com/) - Precision engineering and manufacturing expo. Ho Chi Minh City, Vietnam. Annual.
+- [Vietstock](https://vietstock.org.vn/en/) - Feed, livestock, and aquaculture trade show. Ho Chi Minh City, Vietnam. Annual.
+- [Philconstruct](https://www.philconstructevents.com/) - Construction and building materials expo. Manila, Philippines. Annual.
+- [ProPak Asia](https://www.propakasia.com/) - Processing and packaging trade show. Bangkok, Thailand. Annual, June.
+- [SEMICON Southeast Asia](https://www.semiconsea.org/) - Semiconductor manufacturing and supply chain. Singapore. Annual.
 
 ### Europe
 
@@ -134,6 +151,13 @@
 
 - [FEIMEC](https://www.feimec.com.br/) - International machinery and equipment exhibition. Sao Paulo, Brazil. Biennial.
 - [FISA](https://www.fisaexpo.cl/) - International food trade show for South America. Santiago, Chile. Biennial.
+
+### Oceania
+
+- [AUSPACK](https://www.auspack.com.au/) - Packaging, processing, and logistics exhibition. Melbourne, Australia. Triennial.
+- [CeMAT Australia](https://www.cemat.com.au/) - Intralogistics and supply chain trade show. Sydney, Australia. Biennial.
+- [Fine Food Australia](https://finefoodaustralia.com.au/) - Food and hospitality trade show. Sydney/Melbourne, Australia. Annual.
+- [National Manufacturing Week](https://www.nationalmanufacturingweek.com.au/) - Manufacturing and supply chain expo. Sydney, Australia. Annual.
 
 ## Exhibition Venues
 
@@ -159,6 +183,27 @@
 - [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
 - [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
 - [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
+
+### Lead Capture and Management
+
+- [atEvent](https://www.atevent.com/) - Lead capture app with badge scanning for trade shows.
+- [Akkroo](https://www.akkroo.com/) - GDPR-friendly lead capture and event data capture.
+- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
+- [LeadsRetriever](https://www.leadsretriever.com/) - Lead capture for trade shows and conferences.
+
+- [Cvent LeadCapture](https://www.cvent.com/en/event-marketing-management/lead-capture-app) - Event lead management and badge scanning.
+- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
+- [atEvent](https://www.atevent.com/) - Trade show lead capture app with badge scanning.
+- [Leadature](https://leadature.com) - Lead capture and badge scanning for exhibitors.
+- [ExpoFP Exhibitor Portal](https://www.expofp.com/) - Exhibitor listings and lead tools tied to floor plans.
+
+### Booth Design, Logistics, and ROI Tools
+
+- [Freeman](https://www.freeman.com/) - Exhibitor services, booth build, logistics, and show services.
+- [GES](https://www.ges.com/) - Trade show exhibitor services, logistics, and booth management.
+- [ExpoMarketing](https://www.expomarketing.com/) - Exhibit design, production, and show services.
+- [OnSiteIQ](https://www.onsiteiq.io/) - On-site performance and ROI analytics for live events.
+- [Map Your Show](https://www.mapyourshow.com/) - Floor plans, exhibitor listings, and lead insights.
 
 ### Lead Capture and Management
 
